@@ -1,5 +1,8 @@
 # CoworkingCenter1
 Programacion C ejercicio 1
+
+
+
 #include <stdio.h>
 
 /*1)Declarar las variables para gestionar los datos de un centro de
